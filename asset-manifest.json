@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-and-typescript-practice.github.io/static/css/main.1ebcc58c.css",
-    "main.js": "/react-and-typescript-practice.github.io/static/js/main.d10e2582.js",
-    "index.html": "/react-and-typescript-practice.github.io/index.html",
-    "main.1ebcc58c.css.map": "/react-and-typescript-practice.github.io/static/css/main.1ebcc58c.css.map",
-    "main.d10e2582.js.map": "/react-and-typescript-practice.github.io/static/js/main.d10e2582.js.map"
+    "main.css": "/React-and-typescript-practice.github.io/static/css/main.1ebcc58c.css",
+    "main.js": "/React-and-typescript-practice.github.io/static/js/main.d10e2582.js",
+    "index.html": "/React-and-typescript-practice.github.io/index.html",
+    "main.1ebcc58c.css.map": "/React-and-typescript-practice.github.io/static/css/main.1ebcc58c.css.map",
+    "main.d10e2582.js.map": "/React-and-typescript-practice.github.io/static/js/main.d10e2582.js.map"
   },
   "entrypoints": [
     "static/css/main.1ebcc58c.css",
