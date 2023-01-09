@@ -11,6 +11,7 @@ export function Product({ product }: ProductProps) {
 
   const btnBgClassName = details ? 'bg-yellow-400' : 'bg-blue-400'
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const btnClasses = ['py-2 px-4 border', btnBgClassName]
 
   return (
